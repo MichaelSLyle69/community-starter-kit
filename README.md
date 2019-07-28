@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/michaelslyle69/746c744f-e13e-4f61-8876-3e35d4e0e83d/a224ff83-a0da-4031-bf08-e1539c9253c6/_apis/work/boardbadge/9340450d-e6af-4a58-917e-eaf6df19e698)](https://dev.azure.com/michaelslyle69/746c744f-e13e-4f61-8876-3e35d4e0e83d/_boards/board/t/a224ff83-a0da-4031-bf08-e1539c9253c6/Microsoft.RequirementCategory)
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
